@@ -2,18 +2,6 @@
 
 A responsive, feature-rich task management web application built with React and JavaScript. This application allows users to create, edit, delete, and track tasks with persistent local storage and a clean, modern UI.
 
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Folder Structure](#folder-structure)
-- [Installation Steps](#installation-steps)
-- [How to Run](#how-to-run)
-- [Usage Guide](#usage-guide)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Project Overview
 
