@@ -2,7 +2,6 @@
 
 A responsive, feature-rich task management web application built with React and JavaScript. This application allows users to create, edit, delete, and track tasks with persistent local storage and a clean, modern UI.
 
-
 ## 🎯 Project Overview
 
 The Task Management React App is a beginner-to-intermediate level project that demonstrates core React concepts including functional components, hooks (useState, useEffect), state management, and local storage integration. The application provides a seamless experience for managing daily tasks with a responsive design that works perfectly on all devices.
