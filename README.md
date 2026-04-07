@@ -11,7 +11,6 @@ A responsive, feature-rich task management web application built with React and 
 - [Installation Steps](#installation-steps)
 - [How to Run](#how-to-run)
 - [Usage Guide](#usage-guide)
-- [Screenshots Section](#screenshots-section)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
@@ -212,8 +211,6 @@ npm install
 ### Task Statistics:
 - View total, completed, and remaining tasks above the task list
 - Updates automatically as you manage tasks
-
-## 📸 Screenshots Section
 
 ### Desktop View:
 - Full task management interface with sidebar
